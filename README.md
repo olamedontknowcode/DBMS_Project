@@ -1,5 +1,3 @@
-# DBMS_Project
-
 # PharmaCare DBMS Project
 This project implements a relational database system for managing the operations of a pharmaceutical ecosystem—tracking doctors, patients, pharmacies, drug inventories, prescriptions, and supply contracts between pharmacies and pharmaceutical companies.
 
